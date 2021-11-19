@@ -4,6 +4,6 @@ __Owner:__ Nathaniel Behymer (ntbehymer@my.waketech.edu)
 
 __Project Description__: A web scraping project to gather data from a selected webpage
 
-__Webscraped URL:__
+__Webscraped URL:__ NFL Standings [ URL ; https://www.nfl.com/standings/ ]
 
 __Collaborator:__ In Yip (ityip@my.waketech.edu)
